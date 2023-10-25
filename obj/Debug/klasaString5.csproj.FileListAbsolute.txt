@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\klasaString5\bin\Debug\klasaString5.exe.config
+C:\Users\ucenik\source\repos\klasaString5\bin\Debug\klasaString5.exe
+C:\Users\ucenik\source\repos\klasaString5\bin\Debug\klasaString5.pdb
+C:\Users\ucenik\source\repos\klasaString5\obj\Debug\klasaString5.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klasaString5\obj\Debug\klasaString5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\klasaString5\obj\Debug\klasaString5.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klasaString5\obj\Debug\klasaString5.exe
+C:\Users\ucenik\source\repos\klasaString5\obj\Debug\klasaString5.pdb
